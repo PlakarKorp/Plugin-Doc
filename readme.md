@@ -1,4 +1,3 @@
-````markdown
 # 📦 How to Write a Plakar Plugin in Go
 
 This guide explains **how to implement a Plakar plugin** (Exporter, Importer, or Storage) in Go, and how to use the provided **SDK** to run it.
